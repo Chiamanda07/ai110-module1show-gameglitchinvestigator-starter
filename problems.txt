@@ -1,0 +1,6 @@
+1. The inout box tells me to press enter to apply, but it doesn't work
+2. The hint only says go lower, when it is supposed to be going higher
+3. It shows me the answer when I still have one attempt left
+4. New game resets the attemps part of the code, but it does not do anything make me able to play again; i.e the history is still filled up.
+5. Easy - Hard range is weird. Needs to be corrected
+6. Even when the difficulty level changed, the instruction did not change.
