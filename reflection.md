@@ -23,16 +23,23 @@ It looked ok, but I need to go through the interface to understand it better
 - Which AI tools did you use on this project (for example: ChatGPT, Gemini, Copilot)?
 I used Claude for this project.
 - Give one example of an AI suggestion that was correct (including what the AI suggested and how you verified the result).
+It helped correct the initial message error for check_guess() function by turning "guess > secret → "📉 Go LOWER!"
+guess < secret → "📈 Go HIGHER!"". This was then verified through a code that was used for testing.
 - Give one example of an AI suggestion that was incorrect or misleading (including what the AI suggested and how you verified the result).
+When correcting the input boxes using forms fir the submit button, it also rearranged the "show hint" button and put it above the other buttons. I verified my result by just cross checking what the code was before and what it was now after AI made the change and discovered the error.
 
 ---
 
 ## 3. Debugging and testing your fixes
 
 - How did you decide whether a bug was really fixed?
+  I first looked over the test file that Claude had made, and understood it ran. I then ran it, fixed its errors and ran the app again to see if it worked.
 - Describe at least one test you ran (manual or using pytest)  
   and what it showed you about your code.
+  When I ran the test file, it had simple errors like not assigning some output of the functions to a variable. I then fixed those errors.
 - Did AI help you design or understand any tests? How?
+Yes. 
+I didn't know how to test the second changes I made, so I asked Claude. It exaplained that the second changes I amde was less of a coding problem and more of a UI problem, So the most effective way to test it is by runniing the streamlit program. Although it gave a few coding tests.
 
 ---
 
