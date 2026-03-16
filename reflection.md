@@ -58,7 +58,7 @@ The code used "random.randint(low,high)" which allowed the secret to continue ch
 - What is one habit or strategy from this project that you want to reuse in future labs or projects?
   - This could be a testing habit, a prompting strategy, or a way you used Git.
 
-  I would say the way I used git. I have never actually used git from VSCode before. Learning how to commit from here is pretty cool and I would use it in the future.
+  Firstly, I would say the way I used git. I have never actually used git from VSCode before. Learning how to commit from here is pretty cool and I would use it in the future.
   Secondly just the way to use AI as a guide ad not just let it do the work. Taking the problem step by step, finding the problems on your own, using AI to genrate code to fix it, but then looking over the code and ensuring its doing what you need.
 
 - What is one thing you would do differently next time you work with AI on a coding task?
