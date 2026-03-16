@@ -25,19 +25,19 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] This game is a guessing game. It simply asks the user to guess  a number between 1 and 100. It tells the person if they are close or not and if they need to go higher or lower. It also gives 8 tries, after which it tells the answer.
-- [ ] I found a lot of bugs including:
+- This game is a guessing game. It simply asks the user to guess  a number between 1 and 100. It tells the person if they are close or not and if they need to go higher or lower. It also gives 8 tries, after which it tells the answer.
+-  I found a lot of bugs including:
    1. The input box tells me to press enter to apply, but it doesn't work
   2. The hint only says go lower, when it is supposed to be going higher
   3. It shows me the answer when I still have one attempt left
   4. New game resets the attemps part of the code, but it does not do anything esle to make me be able to play again;  i.e the history is still filled up.
   5. Easy - Hard range is weird. Needs to be corrected
   6. Even when the difficulty level changed, the instruction did not change. .
-- [ ] However, I fixed only the first 2 bugs I mentioned above.
+- However, I fixed only the first 2 bugs I mentioned above.
 
 ## 📸 Demo
 
-- [ ] ![A screenshot of a fixed bug ](image.png)
+- ![A screenshot of a fixed bug ](image.png)
 
 ## 🚀 Stretch Features
 
